@@ -1,5 +1,21 @@
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 8px;">
-  <h2 style="color: #333;">Headline of Your News</h2>
-  <p style="color: #666; font-size: 0.8em;">Posted on May 5, 2026</p>
-  <p>Your news story goes here...</p>
+
+<div style="border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 10px; font-family: sans-serif; max-width: 100%;">
+  
+  <div style="background-color: #cef2e0; border: 1px solid #a2a9b1; padding: 5px 10px; margin: -10px -10px 10px -10px; font-weight: bold; font-size: 1.2em;">
+    From today's featured news
+  </div>
+
+  <div style="text-align: center; margin-bottom: 10px;">
+    <img src="YOUR_IMAGE_URL_HERE" alt="News Image" style="max-width: 100%; border: 1px solid #ccc;">
+    <p style="font-size: 0.9em; color: #333; margin-top: 5px;"><i>Caption for your image goes here</i></p>
+  </div>
+
+  <p style="line-height: 1.5; font-size: 0.95em;">
+    <b>The News Headline</b> is a major event happening today. 
+    It inhabits the digital space of your website and is found by visitors 
+    from across the globe. Like a Wikipedia article, you can 
+    <a href="#" style="color: #0645ad; text-decoration: none;">add links</a> 
+    to make it look more official.
+  </p>
+  
 </div>
