@@ -1,0 +1,5 @@
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 8px;">
+  <h2 style="color: #333;">Headline of Your News</h2>
+  <p style="color: #666; font-size: 0.8em;">Posted on May 5, 2026</p>
+  <p>Your news story goes here...</p>
+</div>
