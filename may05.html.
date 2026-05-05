@@ -19,3 +19,46 @@
   </p>
   
 </div>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: sans-serif; padding: 20px; background-color: #ffffff; }
+        .news-box { border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 10px; max-width: 600px; }
+        .news-header { background-color: #cef2e0; border: 1px solid #a2a9b1; padding: 5px 10px; margin: -10px -10px 10px -10px; font-weight: bold; font-size: 1.1em; color: #000; }
+        .news-image-container { text-align: center; margin-bottom: 10px; }
+        .news-image { max-width: 100%; height: auto; border: 1px solid #ccc; background-color: #fff; padding: 3px; }
+        .news-caption { font-size: 0.85em; color: #333; margin-top: 5px; }
+        .news-content { line-height: 1.6; font-size: 0.95em; color: #202122; }
+        a { color: #0645ad; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<div class="news-box">
+    <div class="news-header">
+        From today's featured news
+    </div>
+
+    <div class="news-image-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Siam_Paragon_at_night.jpg/300px-Siam_Paragon_at_night.jpg" class="news-image">
+        <div class="news-caption">An example image for your news story</div>
+    </div>
+
+    <div class="news-content">
+        <p>
+            <b>Your News Headline</b> is the main event of the day. This story describes 
+            important updates happening right now on your website. Just like 
+            <a href="https://en.wikipedia.org">Wikipedia</a>, you can add 
+            links to other pages to make your site more interactive.
+        </p>
+        <p style="font-size: 0.9em; border-top: 1px solid #ddd; padding-top: 5px;">
+            (<b><a href="index.html">Full article...</a></b>)
+        </p>
+    </div>
+</div>
+
+</body>
+</html>
